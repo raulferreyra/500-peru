@@ -1,4 +1,4 @@
-package com.crediweb.a500peru
+package pe.quintosin.a500peru
 
 import org.junit.Test
 

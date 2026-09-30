@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.crediweb.a500peru"
+    namespace = "pe.quintosin.peru500"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.crediweb.a500peru"
+        applicationId = "pe.quintosin.peru500"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

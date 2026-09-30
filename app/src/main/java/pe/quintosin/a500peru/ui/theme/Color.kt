@@ -1,4 +1,4 @@
-package com.crediweb.a500peru.ui.theme
+package pe.quintosin.a500peru.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
