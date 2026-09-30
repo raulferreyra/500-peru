@@ -1,4 +1,4 @@
-package pe.quintosin.peru500
+package pe.quintosin.a500peru
 
 import android.app.role.RoleManager
 import android.content.Context

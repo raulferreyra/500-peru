@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "pe.quintosin.peru500"
+    namespace = "pe.quintosin.a500peru"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "pe.quintosin.peru500"
+        applicationId = "pe.quintosin.a500peru"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
