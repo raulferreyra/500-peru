@@ -19,8 +19,8 @@ val OrgonFamily = try {
 
 val LatoFamily = try {
     FontFamily(
-        Font(R.font.lato_regular_italic, FontWeight.Normal, FontStyle.Italic),
-        Font(R.font.lato_bold_italic, FontWeight.Bold, FontStyle.Italic)
+        Font(R.font.lato_italic, FontWeight.Normal, FontStyle.Italic),
+        Font(R.font.lato_bolditalic, FontWeight.Bold, FontStyle.Italic)
     )
 } catch (e: Exception) { FontFamily.Default }
 
