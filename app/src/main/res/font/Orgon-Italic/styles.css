@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Orgon-Italic';
+  src: url('Orgon-Italic.eot?#iefix') format('embedded-opentype'),  url('Orgon-Italic.otf')  format('opentype'),
+	     url('Orgon-Italic.woff') format('woff'), url('Orgon-Italic.ttf')  format('truetype'), url('Orgon-Italic.svg#Orgon-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

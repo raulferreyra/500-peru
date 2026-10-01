@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Orgon-ThinIt';
+  src: url('Orgon-ThinIt.eot?#iefix') format('embedded-opentype'),  url('Orgon-ThinIt.otf')  format('opentype'),
+	     url('Orgon-ThinIt.woff') format('woff'), url('Orgon-ThinIt.ttf')  format('truetype'), url('Orgon-ThinIt.svg#Orgon-ThinIt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Orgon-MediumIt';
+  src: url('Orgon-MediumIt.eot?#iefix') format('embedded-opentype'),  url('Orgon-MediumIt.otf')  format('opentype'),
+	     url('Orgon-MediumIt.woff') format('woff'), url('Orgon-MediumIt.ttf')  format('truetype'), url('Orgon-MediumIt.svg#Orgon-MediumIt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
