@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.a500Peru" parent="android:Theme.Material.Light.NoActionBar" >
-        <item name="android:windowBackground">@android:color/white</item>
-        <item name="android:textColor">@android:color/black</item>
+    <style name="Theme.a500Peru" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F8F9FA</item>
+        <item name="android:statusBarColor">#00386C</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:textColor">#1A1A1A</item>
     </style>
 </resources>
